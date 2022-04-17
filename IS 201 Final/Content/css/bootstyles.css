@@ -1,0 +1,74 @@
+body {
+    background-color: rgb(255, 218, 193);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.common {
+    position: absolute
+}
+
+.header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    border-bottom: 5px solid rebeccapurple;
+}
+.fontstyle{
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: darkblue;
+    text-decoration:italic;
+}
+.footerstyle{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: darkblue;
+    
+}
+.footerfont {
+    font-size: 12px;
+    font-family: 'Times New Roman', Times, serif;
+    color:blueviolet;
+    text-align: center;
+}
+.mainbody {
+    top: 115px;
+    left: 110px;
+    right: 110px;
+    padding-bottom: 25px;
+    
+}
+
+.footer{
+    bottom: 5px;
+    height: 10px;
+    left: 5px;
+    right: 5px;
+    font-size: 10px;
+    color: gray;
+    text-align: center;
+    position: fixed;
+
+}
+
+.subheader {
+    float: right;
+}
+
+.menu {
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: double;
+    font-style:italic;
+    font-weight: lighter;
+    
+}
+
+.font{
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(80, 21, 119);
+    text-decoration: none;
+    text-align: center;
+}
